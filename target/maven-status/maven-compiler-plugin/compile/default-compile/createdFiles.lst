@@ -1,0 +1,8 @@
+br/com/springmvcone/domain/Preco.class
+br/com/springmvcone/domain/TipoPreco.class
+br/com/springmvcone/service/web/ProductController.class
+br/com/springmvcone/service/ProductService.class
+br/com/springmvcone/integration/ProductRepository.class
+br/com/springmvcone/domain/Product.class
+br/com/springmvcone/Application.class
+br/com/springmvcone/service/impl/ProductServiceImpl.class
